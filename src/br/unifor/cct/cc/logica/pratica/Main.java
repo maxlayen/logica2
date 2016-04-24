@@ -1,6 +1,6 @@
 
 /**
- * @author Maxwell & Alex
+ * @author Maxwell 1610393  & Alex Freitas 1610360
  */
 import java.util.*;
 
